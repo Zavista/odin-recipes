@@ -1,0 +1,20 @@
+.homepage{
+    background-color: bisque;
+    color: burlywood;
+}
+
+.homepage.list{
+    color: darkgoldenrod;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.recipe-title{
+    background-color: bisque;
+    color: burlywood;
+    font-weight: 800;
+    text-align: center;
+}
